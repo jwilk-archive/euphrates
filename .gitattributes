@@ -1,0 +1,3 @@
+*.bpg text eol=crlf
+*.dpr text eol=crlf
+*.pas text eol=crlf
